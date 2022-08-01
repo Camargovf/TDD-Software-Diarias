@@ -1,4 +1,4 @@
-![TDD](https://www.softelevation.com/wp-content/uploads/2021/05/Untitled-design-18-2.png)
+![TDD]
 
 
 <h1 align="center">🎯 Sobre o projeto</h1>
