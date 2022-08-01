@@ -1,5 +1,4 @@
-![TDD]
-
+<img src="https://www.alura.com.br/artigos/assets/facilitando-seus-testes-de-unidade-no-java-um-pouco-de-mockito/mockito.jpg" width="950px" alt="Mock" class="center">
 
 <h1 align="center">🎯 Sobre o projeto</h1>
 
