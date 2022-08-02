@@ -14,6 +14,7 @@ public class BookingService {
     @Autowired
     BookingRepository bookingRepository;
 
+
     public int daysCalculatorWithDatabase(String name) {
         Optional<BookingModel> bookingModelOptional = bookingRepository.findbyReserveName(name);
 
